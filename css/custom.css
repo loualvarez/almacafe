@@ -1,5 +1,6 @@
 /*  Original CSS from Past developed site */
 
+
 .widget .widget-title {
   /*border-bottom: 1px dotted #c2c2c2;*/
 	color: #6D6E6E;
@@ -89,6 +90,10 @@ video {
   border-radius: 0em;
 }
 
+.img-thumbnail {
+	max-width: fit-content;
+}
+
 .jumbotron-custom {
   overflow: hidden;
   position: relative;
@@ -130,7 +135,6 @@ video {
   border-radius: 0;
   padding: 0;
   margin: 0;
-  max-width: fit-content;
 }
 
 #servicios {
