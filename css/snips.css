@@ -1,7 +1,7 @@
 /* relevant styles */
 .img__wrap {
   position: relative;
-  height: 100%;
+  height: unset;
   width: 257px;
 }
 
