@@ -130,6 +130,15 @@ video {
   box-sizing: content-box;
 }
 
+.img-thumbnail {
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  max-width: none;
+  height: auto;
+}
+
 #gallery .col-4 .img-thumbnail {
   border: none;
   border-radius: 0;
