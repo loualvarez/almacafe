@@ -120,7 +120,6 @@ video {
 
 #gallery .row {
   height: 320px;
-  overflow: hidden;
 }
 
 #gallery .col-4 {
@@ -144,6 +143,8 @@ video {
   border-radius: 0;
   padding: 0;
   margin: 0;
+	height: 320px;
+	max-width: fit-content;
 }
 
 #servicios {
