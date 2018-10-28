@@ -268,17 +268,22 @@ video {
 	display: block;
 	margin: auto;
 	margin-top: 50px;
+	position: relative;
 }
 
 #contact-links img {
 	position: absolute;
 	display: block;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 #contact-links h1 {
 	background-color: white;
 	font-family: American Typewriter, serif;
 	margin-bottom: 50px;
+	font-weight: 100;
 }
 
 .flags ul {
