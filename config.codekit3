@@ -228,6 +228,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/css/snips.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/snips-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/img/favicons/android-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 7416,
@@ -866,6 +876,24 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/video/alma_institucional.mp4": {
 		"cB": 0,
 		"ft": 8192,
@@ -880,7 +908,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 562134098.92654204,
-	"displayValue": "_html",
+	"displayValue": "almacafe",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ceiling",
 	"iconImageWasSetByUser": 0,
