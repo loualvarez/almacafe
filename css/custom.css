@@ -268,11 +268,16 @@ video {
 	display: block;
 	margin: auto;
 	margin-top: 50px;
+}
 
+#contact-links img {
+	position: absolute;
+	display: block;
 }
 
 #contact-links h1 {
 	background-color: white;
+	font-family: American Typewriter, serif;
 	margin-bottom: 50px;
 }
 

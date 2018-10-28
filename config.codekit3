@@ -228,6 +228,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/css/snips-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/snips-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/snips.css": {
 		"aP": 1,
 		"bl": 0,
@@ -524,11 +534,55 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/png/leconecta.png": {
+		"ft": 32768,
+		"iS": 16670,
+		"oA": 0,
+		"oAP": "/img/png/leconecta.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/png/services-bottom-logo.png": {
 		"ft": 32768,
 		"iS": 24336,
 		"oA": 0,
 		"oAP": "/img/png/services-bottom-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/png/todos-conectados.png": {
+		"ft": 32768,
+		"iS": 4765,
+		"oA": 0,
+		"oAP": "/img/png/todos-conectados.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/png/twitter.png": {
+		"ft": 32768,
+		"iS": 6819,
+		"oA": 0,
+		"oAP": "/img/png/twitter.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/png/youtube.png": {
+		"ft": 32768,
+		"iS": 5630,
+		"oA": 0,
+		"oAP": "/img/png/youtube.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
